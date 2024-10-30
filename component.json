@@ -1,0 +1,11 @@
+{
+  "id": "selectJG_3ncr6zk2",
+  "name": "选机构",
+  "type": "form",
+
+  "fieldType": "department",
+
+  "group": "基本控件",
+  "version": "1.0.0",
+  "config": {}
+}
